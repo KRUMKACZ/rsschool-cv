@@ -8,6 +8,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   font-weight: 300;
+
 }
 
 .main {
@@ -343,3 +344,9 @@ ul.contacts {
 .projects a:hover {
   text-decoration: underline;
 }
+
+/* EDUCATION */
+
+/* PROJECTS */
+
+/* PROJECTS */
